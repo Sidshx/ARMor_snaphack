@@ -120,4 +120,12 @@ python ARMbot/armbot.py
 * The LLM model (`qnn-deepseek-r1-distill-qwen-1.5b`) is an example. Other localhost-compatible models can be used by updating the `model` parameter in `query_llm` and `client`.
 * Ensure the local LLM server is running before executing `armbot.py`.
 
+### Members contributing to this project:
+1.   Janakiraman Ethirajulu
+2.   Kaustubh Lad
+3.   Kanishk Kaushal
+4.   Siddesh Patil
+5.   Tianwei Liu
+
+
 ---

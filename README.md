@@ -121,11 +121,11 @@ python ARMbot/armbot.py
 * Ensure the local LLM server is running before executing `armbot.py`.
 
 ### Members contributing to this project:
-1.   Janakiraman Ethirajulu
-2.   Kaustubh Lad
-3.   Kanishk Kaushal
-4.   Siddesh Patil
-5.   Tianwei Liu
+1.   Janakiraman Ethirajulu [ https://www.linkedin.com/in/janakiraman-ethirajulu-5086b5189/ ]
+2.   Kaustubh Lad [ https://www.linkedin.com/in/kaustubh-lad/ ]
+3.   Kanishk Kaushal [ https://www.linkedin.com/in/kanishk-roboticist/ ]
+4.   Siddesh Patil [ https://www.linkedin.com/in/siddesh-patil-497b50206/ ]
+5.   Tianwei Liu [ https://www.linkedin.com/in/twliu42/ ]
 
 
 ---
